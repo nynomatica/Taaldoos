@@ -1,13 +1,11 @@
 
 
-<body lang="nl-NL" link="#000080" vlink="#800000" dir="ltr"><h2 class="western">
-TaalDoos</h2>
+<h2>TaalDoos</h2>
 
-<p style="margin-bottom: 0mm; line-height: 100%">'Taaldoos' (Dutch
-language Box) are a set of Tools for manipulating The Dutch Language.
-</p>
-<p style="margin-bottom: 0mm; line-height: 100%">The goal is it to
-create a set of tools and can be used to manipulate dutch sentences
-in a comprehensive way.</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=80 height=80 alt="Italian Trulli">
 
-</body>
+Hi Everybody,
+
+'Taaldoos' (Dutch language Box) are a set of Tools for manipulating The Dutch Language.
+
+The goal is it to create a set of tools and can be used to manipulate dutch sentences in a comprehensive way. At the moment this project is in the planning fase.
