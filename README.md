@@ -2,7 +2,7 @@
 
 <h2>TaalDoos</h2>
 
-<img src="https://drive.google.com/uc?export=view&id=1h9JkslCrvWYhjt4J83spdG7cpAldEnGL" width=60 height=80 alt="Italian Trulli">
+<img src="https://drive.google.com/uc?export=view&id=1xen9NnjlezhEm0x4KYkOF1aUbcqASDvy" width=60 height=80 alt="project logo">
 
 Hi Everybody,
 

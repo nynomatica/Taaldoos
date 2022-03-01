@@ -1,11 +1,12 @@
-Metadata-Version: 2.1
+Metadata-Version: 1.1
 Name: Taaldoos
 Version: 0.0.0
-Summary: Tools for manipulating Dutch Language
+Summary: Tools for manipulating The Dutch Language
 Home-page: https://github.com/nynomatica/taaldoos
 Author: Raymond Koster
 Author-email: kosterray@gmail.com
 License: Free For Educational Use
+Description: UNKNOWN
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - Planning
 Classifier: Intended Audience :: Science/Research
@@ -17,6 +18,3 @@ Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.4
 Classifier: Programming Language :: Python :: 3.5
 Classifier: Programming Language :: Python :: 3.8
-
-UNKNOWN
-
