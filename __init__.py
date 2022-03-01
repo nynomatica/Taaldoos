@@ -1,0 +1,4 @@
+
+from is_klinker import is_klinker
+from klinker_medeklinker_groep import klinker_medeklinker_groep
+

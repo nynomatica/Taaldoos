@@ -1,0 +1,8 @@
+setup.py
+/home/ray/PycharmProjects/Taaldoos/__init__.py
+Taaldoos/is_klinker.py
+Taaldoos/klinker_medeklinker_groep.py
+Taaldoos.egg-info/PKG-INFO
+Taaldoos.egg-info/SOURCES.txt
+Taaldoos.egg-info/dependency_links.txt
+Taaldoos.egg-info/top_level.txt
