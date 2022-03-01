@@ -2,7 +2,7 @@
 
 <h2>TaalDoos</h2>
 
-![](Res/taaldoos-logo.png)
+![https://github.com/nynomatica/Taaldoos/blob/master/Res/taaldoos-logo.png](Res/taaldoos-logo.png)
 
 Hi Everybody,
 
