@@ -1,12 +1,17 @@
 from is_klinker import is_klinker
 
 
+# todo  : Make wiki page for klinker_medeklinker_groep()
+
 def klinker_medeklinker_groep(woord):
     """
     Grouping is the process of grouping consonants and vowels together in a list
     example :boom  -> ['b','oo','m']
              gans  -> ['g','a','ns']
-     a group has either consonants or vowels
+    A group has either consonants or vowels. we need this for stemming
+    in Dutch the last vowel group gets often but not always compressed and the last consonant doubled
+    E.g. bomen (plural) to boom (singular)
+    Grouping makes finding the stem simpler.
     :param woord:
     :return: list
     """

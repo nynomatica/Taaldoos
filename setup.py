@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='Taaldoos',
-    version='0.0.0',
+    version='0.0.1',
     description='Tools for manipulating The Dutch Language',
     url='https://github.com/nynomatica/taaldoos',
     author='Raymond Koster',
